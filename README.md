@@ -108,33 +108,33 @@ There isn't really much more to explain, but email me at ryanbuttery@gmail.com i
 PS. Don't forget to acknowledge the following authors for making the software possible!
 
     R Core Team (2016). R: A language and
-  environment for statistical computing. R
-  Foundation for Statistical Computing,
-  Vienna, Austria. URL
-  https://www.R-project.org/.
+    environment for statistical computing. R
+    Foundation for Statistical Computing,
+    Vienna, Austria. URL
+    https://www.R-project.org/.
 
   
     Hadley Wickham (2007). Reshaping Data with
-  the reshape Package. Journal of Statistical
-  Software, 21(12), 1-20. URL
-  http://www.jstatsoft.org/v21/i12/.
+    the reshape Package. Journal of Statistical
+    Software, 21(12), 1-20. URL
+    http://www.jstatsoft.org/v21/i12/.
   
   
     H. Wickham. ggplot2: Elegant Graphics for
-  Data Analysis. Springer-Verlag New York,
-  2009.
+    Data Analysis. Springer-Verlag New York,
+    2009.
 
   
     Hadley Wickham and Romain Francois (2016).
-  dplyr: A Grammar of Data Manipulation. R
-  package version 0.5.0.
-  https://CRAN.R-project.org/package=dplyr
+    dplyr: A Grammar of Data Manipulation. R
+    package version 0.5.0.
+    https://CRAN.R-project.org/package=dplyr
 
 
     Hadley Wickham (2016). tidyr: Easily Tidy
-  Data with `spread()` and `gather()`
-  Functions. R package version 0.5.1.
-  https://CRAN.R-project.org/package=tidyr
+    Data with `spread()` and `gather()`
+    Functions. R package version 0.5.1.
+    https://CRAN.R-project.org/package=tidyr
 
 
 (Yeah, basically Hadley Wickham is a legend)
