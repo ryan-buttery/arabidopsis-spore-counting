@@ -4,8 +4,9 @@ Contains R scripts that aid in the statistical analysis of Hpa spore counts in a
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by-sa/4.0/.
-Author: Ryan Buttery (2016), MRes Biology candidate, University of Worcester
-Contact: ryanbuttery@gmail.com
+
+    Author: Ryan Buttery (2016), MRes Biology candidate, University of Worcester
+    Contact: ryanbuttery@gmail.com
 
 
 \__________________________________________________________________________________________/
@@ -137,4 +138,4 @@ PS. Don't forget to acknowledge the following authors for making the software po
     https://CRAN.R-project.org/package=tidyr
 
 
-(Yeah, basically Hadley Wickham is a legend)
+(Yeah, basically Hadley Wickham is a wonderful human being)
