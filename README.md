@@ -1,7 +1,7 @@
 # arabidopsis-spore-counting
 Contains R scripts that aid in the statistical analysis of Hpa spore counts in arabidopsis
 #READ THIS PLEASE (or don't.. I'm not an oppressor)
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+© Ryan Buttery 2016. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by-sa/4.0/.
 
